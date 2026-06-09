@@ -109,13 +109,9 @@ streamlit run app.py
 
 **Arpita Sarkar**
 B.Tech — Electronics & Communication Engineering
-Kalyani Government Engineering College (MAKAUT) | CGPA: 7.87 | 2025
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/arpita-sarkar-00921a225/)
 [![GitHub](https://img.shields.io/badge/GitHub-arpitasarkardata-black?logo=github)](https://github.com/arpitasarkardata)
 
 ---
 
-## 📄 License
-
-This project is for educational and portfolio purposes as part of the Unified Mentor Data Analytics program.
