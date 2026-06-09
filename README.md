@@ -1,10 +1,6 @@
 # 🚢 Supply Chain Profitability Analysis — APL Logistics
 
 > **Customer, Product & Profitability Performance Analysis in Supply Chain Operations**
-> Unified Mentor Data Analytics Project
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://arpitasarkardata-supply-chain-profitability-analysis.streamlit.app)
-
 ---
 
 ## 📌 Project Overview
@@ -20,7 +16,7 @@ This project delivers **financial clarity and margin intelligence** by answering
 
 ## 📊 Live Dashboard
 
-🔗 **[Launch Streamlit Dashboard →](https://arpitasarkardata-supply-chain-profitability-analysis.streamlit.app)**
+🔗 **[Launch Streamlit Dashboard →](https://supply-chain-profitability-analysis-6mg49wu4inzzfmawazrsrq.streamlit.app/)**
 
 ### Dashboard Modules
 
